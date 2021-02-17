@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SELF4BPbjZ4lJwbu0Mw+5KtcTVQd/sux7KgL1TXRFSLTyqi/cZU6PD1ew+3T5ptgvP1HHoEjD662jVQufNmlrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\JsonSerializationProgramHometask\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
